@@ -1,0 +1,17 @@
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\bin\Debug\netcoreapp3.1\CraftopiaMerger.exe
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\bin\Debug\netcoreapp3.1\CraftopiaMerger.deps.json
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\bin\Debug\netcoreapp3.1\CraftopiaMerger.runtimeconfig.json
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\bin\Debug\netcoreapp3.1\CraftopiaMerger.runtimeconfig.dev.json
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\bin\Debug\netcoreapp3.1\CraftopiaMerger.dll
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\bin\Debug\netcoreapp3.1\CraftopiaMerger.pdb
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.csprojAssemblyReference.cache
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.MainWindow.resources
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.csproj.GenerateResource.cache
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.AssemblyInfoInputs.cache
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.AssemblyInfo.cs
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.dll
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.pdb
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.genruntimeconfig.cache
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.csproj.CoreCompileInputs.cache
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\patrick\source\repos\CraftopiaMerger\CraftopiaMerger\obj\Debug\netcoreapp3.1\CraftopiaMerger.csproj.CopyComplete
