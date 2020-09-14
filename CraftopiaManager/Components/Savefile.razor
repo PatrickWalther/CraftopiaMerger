@@ -1,0 +1,24 @@
+﻿<div class="container">
+    @if(!IsLoaded)
+    {
+        <div class="drag-drop-zone">
+            <InputFile OnChange="LoadFile"/>
+            @status
+        </div>
+    }
+    else
+    {
+
+    }
+</div>
+
+@code {
+    public bool IsLoaded { get; set; } = false;
+
+    private string status { get; set; } = "Drop a Craftopia save file here or click to choose a file";
+
+    async Task LoadFile(BlazorInputFile.IFileListEntry[] files)
+    {
+
+    }
+}

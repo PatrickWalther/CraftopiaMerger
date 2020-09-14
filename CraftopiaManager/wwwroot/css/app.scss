@@ -1,0 +1,51 @@
+﻿@import "_variables.scss";
+@import "../lib/bootstrap/scss/bootstrap";
+@import "_bootswatch.scss";
+
+
+
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+
+.drag-drop-zone {
+    border-radius: 25px;
+    border: 3px dashed $primary;
+    padding: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $light;
+    box-shadow: inset 0 0 8px rgba(0,0,0,0.2);
+    color: $secondary;
+    font-size: 1.5rem;
+    cursor: pointer;
+    margin: 1.5rem 0 2rem 0;
+    position: relative;
+}
+.drag-drop-zone:hover {
+    border: 3px dashed $danger;
+}
+
+    .drag-drop-zone input[type=file] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        cursor: pointer;
+    }
